@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{22CB7788-0A56-499D-8ACC-CF299A45A03B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkerFolderService/Worker.cs">
+    <Files>
+      <File FileName="WorkerFolderService/appsettings.json" Line="10" Column="37" />
+      <File FileName="EmailService/IEmailSender.cs" />
+      <File FileName="EmailService/Message.cs" />
+      <File FileName="EmailService/EmailSender.cs" />
+      <File FileName="WorkerFolderService/Program.cs" />
+      <File FileName="WorkerFolderService/Worker.cs" Line="37" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkerFolderService" expanded="True">
+            <Node name="EmailService" expanded="True" />
+            <Node name="WorkerFolderService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Worker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkerFolderService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
